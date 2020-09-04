@@ -60,4 +60,3 @@ end
 % Code works for any length of data ROWWISE AND COLUMNWISE
 % Last for loop with minor changes facilitate new project implemntations
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% % GOOD LUCK % %%%%%%%%%%%%%%%%%%%%%%%%%%%
